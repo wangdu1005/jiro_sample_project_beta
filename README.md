@@ -1,6 +1,10 @@
-# jiro_sample_project
+# jiro_sample_project_beta
 
 A sample project that provide people quickly build up develop environment
+
+The original setting reference comes from BatonHunter/BatonHunter
+
+https://github.com/BatonHunter/BatonHunter
 
 ## Require
 
