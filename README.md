@@ -2,7 +2,7 @@
 
 A sample project that provide people quickly build up develop environment
 
-The original setting reference comes from BatonHunter/BatonHunter
+The original environment setting reference comes from BatonHunter/BatonHunter
 
 https://github.com/BatonHunter/BatonHunter
 
@@ -20,10 +20,8 @@ npm install
 
 gulp build
 
-
 ********
 
 Remember remove "node_modules" and "bower_components" before you push!!!!!!!!
-
 
 ********
